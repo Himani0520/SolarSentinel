@@ -1,0 +1,19 @@
+# Datasets
+*.csv
+*.raws
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual env
+venv/
+.env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
